@@ -168,6 +168,9 @@ p {
 }
 
 @media screen and (max-width: 64.25rem) {
+  .faq-wrapper {
+    height: 100vh;
+  }
   .faq-container {
     width: 90%;
     margin: auto;
