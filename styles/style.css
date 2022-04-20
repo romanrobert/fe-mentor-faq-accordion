@@ -173,7 +173,7 @@ p {
   }
   .faq-container {
     width: 90%;
-    margin: auto;
+    margin-top: 8rem;
     max-height: 33rem;
   }
 }
